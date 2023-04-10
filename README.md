@@ -1,6 +1,6 @@
 # Database_for_Online-Store
 
-![image](https://user-images.githubusercontent.com/130033747/230872447-d8d172b3-fd80-464a-8413-5f8ce1ca0568.png)
+![image](https://user-images.githubusercontent.com/130033747/230889475-02b4689b-7e6d-4abe-adbc-326d252de7a0.png)
 
 
 create table Site_User     --Пользователь ✅ </br>
